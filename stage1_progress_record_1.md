@@ -16,7 +16,7 @@ https://github.com/Afxb9/Docs_in_md_language/blob/main/stage0_final_progress_rec
 
 Stage 1 Progress Record 1:
 
-
+https://github.com/Afxb9/Docs_in_md_language/blob/main/stage1_progress_record_1.md
 
 The governing documents are maintained online in GitHub rather than as local reference files.
 
