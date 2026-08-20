@@ -46,7 +46,9 @@ This should remain the **authoritative curriculum/progress references**.
 
 Stage 1 Progress Record 1 and 2:
 
+https://github.com/Afxb9/Docs_in_md_language/blob/main/stage1_cpp_progress_record_1.md
 
+https://github.com/Afxb9/Docs_in_md_language/blob/main/stage1_cpp_progress_record_2.md
 
 ---
 
